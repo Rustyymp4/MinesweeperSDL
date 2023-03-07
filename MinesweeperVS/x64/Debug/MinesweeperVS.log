@@ -1,0 +1,8 @@
+﻿  MinesweeperVS.c
+C:\Users\enzobertrand\source\repos\MinesweeperVS\MinesweeperVS.c(281,3): warning C4550: l'expression évalue une fonction dans laquelle manque une liste d'arguments
+C:\Users\enzobertrand\source\repos\MinesweeperVS\MinesweeperVS.c(311,3): warning C4550: l'expression évalue une fonction dans laquelle manque une liste d'arguments
+C:\Users\enzobertrand\source\repos\MinesweeperVS\MinesweeperVS.c(142,7): warning C4047: 'initialisation' : les niveaux d'indirection de 'char' et de 'char [1]' sont différents
+C:\Users\enzobertrand\source\repos\MinesweeperVS\MinesweeperVS.c(374,12): warning C4026: fonction déclarée avec une liste de paramètres formels
+C:\Users\enzobertrand\source\repos\MinesweeperVS\MinesweeperVS.c(378,8): warning C4013: 'time' non défini(e) ; extern retournant int pris par défaut
+C:\Users\enzobertrand\source\repos\MinesweeperVS\MinesweeperVS.c(400): warning C4715: 'SDL_main' : les chemins de contrôle ne retournent pas tous une valeur
+  MinesweeperVS.vcxproj -> C:\Users\enzobertrand\source\repos\MinesweeperVS\x64\Debug\MinesweeperVS.exe
