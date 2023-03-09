@@ -1,8 +1,24 @@
 ﻿  MinesweeperVS.c
-C:\Users\enzobertrand\source\repos\MinesweeperVS\MinesweeperVS.c(281,3): warning C4550: l'expression évalue une fonction dans laquelle manque une liste d'arguments
-C:\Users\enzobertrand\source\repos\MinesweeperVS\MinesweeperVS.c(311,3): warning C4550: l'expression évalue une fonction dans laquelle manque une liste d'arguments
-C:\Users\enzobertrand\source\repos\MinesweeperVS\MinesweeperVS.c(142,7): warning C4047: 'initialisation' : les niveaux d'indirection de 'char' et de 'char [1]' sont différents
-C:\Users\enzobertrand\source\repos\MinesweeperVS\MinesweeperVS.c(374,12): warning C4026: fonction déclarée avec une liste de paramètres formels
-C:\Users\enzobertrand\source\repos\MinesweeperVS\MinesweeperVS.c(378,8): warning C4013: 'time' non défini(e) ; extern retournant int pris par défaut
-C:\Users\enzobertrand\source\repos\MinesweeperVS\MinesweeperVS.c(400): warning C4715: 'SDL_main' : les chemins de contrôle ne retournent pas tous une valeur
+C:\Users\enzobertrand\source\repos\MinesweeperVS\MinesweeperVS.c(61,69): warning C4133: '=' : types incompatibles - de 'SDL_Texture *' à 'const char *'
+C:\Users\enzobertrand\source\repos\MinesweeperVS\MinesweeperVS.c(69,69): warning C4133: '=' : types incompatibles - de 'SDL_Texture *' à 'const char *'
+C:\Users\enzobertrand\source\repos\MinesweeperVS\MinesweeperVS.c(240,36): warning C4133: '=' : types incompatibles - de 'SDL_Texture *' à 'const char *'
+C:\Users\enzobertrand\source\repos\MinesweeperVS\MinesweeperVS.c(246,47): warning C4090: 'fonction' : qualificateurs 'const' différents
+C:\Users\enzobertrand\source\repos\MinesweeperVS\MinesweeperVS.c(322,15): warning C4047: '=' : les niveaux d'indirection de 'char' et de 'char [1]' sont différents
+C:\Users\enzobertrand\source\repos\MinesweeperVS\MinesweeperVS.c(329,48): warning C4090: 'fonction' : qualificateurs 'const' différents
+C:\Users\enzobertrand\source\repos\MinesweeperVS\MinesweeperVS.c(369,71): warning C4133: '=' : types incompatibles - de 'SDL_Texture *' à 'const char *'
+C:\Users\enzobertrand\source\repos\MinesweeperVS\MinesweeperVS.c(384,46): warning C4133: '=' : types incompatibles - de 'SDL_Texture *' à 'const char *'
+C:\Users\enzobertrand\source\repos\MinesweeperVS\MinesweeperVS.c(392,46): warning C4133: '=' : types incompatibles - de 'SDL_Texture *' à 'const char *'
+C:\Users\enzobertrand\source\repos\MinesweeperVS\MinesweeperVS.c(405,40): warning C4133: '=' : types incompatibles - de 'SDL_Texture *' à 'const char *'
+C:\Users\enzobertrand\source\repos\MinesweeperVS\MinesweeperVS.c(409,40): warning C4133: '=' : types incompatibles - de 'SDL_Texture *' à 'const char *'
+C:\Users\enzobertrand\source\repos\MinesweeperVS\MinesweeperVS.c(415,50): warning C4090: 'fonction' : qualificateurs 'const' différents
+C:\Users\enzobertrand\source\repos\MinesweeperVS\MinesweeperVS.c(416,7): warning C4550: l'expression évalue une fonction dans laquelle manque une liste d'arguments
+C:\Users\enzobertrand\source\repos\MinesweeperVS\MinesweeperVS.c(428,52): warning C4133: '=' : types incompatibles - de 'SDL_Texture *' à 'const char *'
+C:\Users\enzobertrand\source\repos\MinesweeperVS\MinesweeperVS.c(431,39): warning C4133: '=' : types incompatibles - de 'SDL_Texture *' à 'const char *'
+C:\Users\enzobertrand\source\repos\MinesweeperVS\MinesweeperVS.c(435,39): warning C4133: '=' : types incompatibles - de 'SDL_Texture *' à 'const char *'
+C:\Users\enzobertrand\source\repos\MinesweeperVS\MinesweeperVS.c(440,49): warning C4090: 'fonction' : qualificateurs 'const' différents
+C:\Users\enzobertrand\source\repos\MinesweeperVS\MinesweeperVS.c(442,6): warning C4550: l'expression évalue une fonction dans laquelle manque une liste d'arguments
+C:\Users\enzobertrand\source\repos\MinesweeperVS\MinesweeperVS.c(132,7): warning C4047: 'initialisation' : les niveaux d'indirection de 'char' et de 'char [1]' sont différents
+C:\Users\enzobertrand\source\repos\MinesweeperVS\MinesweeperVS.c(469,12): warning C4026: fonction déclarée avec une liste de paramètres formels
+C:\Users\enzobertrand\source\repos\MinesweeperVS\MinesweeperVS.c(473,8): warning C4013: 'time' non défini(e) ; extern retournant int pris par défaut
+C:\Users\enzobertrand\source\repos\MinesweeperVS\MinesweeperVS.c(489): warning C4716: 'SDL_main' : doit retourner une valeur
   MinesweeperVS.vcxproj -> C:\Users\enzobertrand\source\repos\MinesweeperVS\x64\Debug\MinesweeperVS.exe
