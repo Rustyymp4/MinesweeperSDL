@@ -1,0 +1,24 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: Le répertoire intermédiaire (x64\Debug\) contient des fichiers partagés provenant d'un autre projet (MinesweeperVS.c.vcxproj, VS.c.vcxproj). Cela peut entraîner un comportement de nettoyage et de regénération incorrect.
+  MinesweeperVS.c
+C:\Users\yxofl\OneDrive\Bureau\MineSweeper Groupe A2 Final\MinesweeperVS.c(52,131): warning C4020: 'SDL_CreateWindow' : paramètres réels trop nombreux
+C:\Users\yxofl\OneDrive\Bureau\MineSweeper Groupe A2 Final\MinesweeperVS.c(109,32): warning C4133: '=' : types incompatibles - de 'SDL_Texture *' à 'const char *'
+C:\Users\yxofl\OneDrive\Bureau\MineSweeper Groupe A2 Final\MinesweeperVS.c(119,32): warning C4133: '=' : types incompatibles - de 'SDL_Texture *' à 'const char *'
+C:\Users\yxofl\OneDrive\Bureau\MineSweeper Groupe A2 Final\MinesweeperVS.c(176,131): warning C4020: 'SDL_CreateWindow' : paramètres réels trop nombreux
+C:\Users\yxofl\OneDrive\Bureau\MineSweeper Groupe A2 Final\MinesweeperVS.c(332,23): warning C4133: '=' : types incompatibles - de 'SDL_Texture *' à 'const char *'
+C:\Users\yxofl\OneDrive\Bureau\MineSweeper Groupe A2 Final\MinesweeperVS.c(338,47): warning C4090: 'fonction' : qualificateurs 'const' différents
+C:\Users\yxofl\OneDrive\Bureau\MineSweeper Groupe A2 Final\MinesweeperVS.c(415,15): warning C4047: '=' : les niveaux d'indirection de 'char' et de 'char [1]' sont différents
+C:\Users\yxofl\OneDrive\Bureau\MineSweeper Groupe A2 Final\MinesweeperVS.c(420,28): warning C4133: '!=' : types incompatibles - de 'SDL_Texture *' à 'const char *'
+C:\Users\yxofl\OneDrive\Bureau\MineSweeper Groupe A2 Final\MinesweeperVS.c(420,65): warning C4133: '!=' : types incompatibles - de 'SDL_Texture *' à 'const char *'
+C:\Users\yxofl\OneDrive\Bureau\MineSweeper Groupe A2 Final\MinesweeperVS.c(426,48): warning C4090: 'fonction' : qualificateurs 'const' différents
+C:\Users\yxofl\OneDrive\Bureau\MineSweeper Groupe A2 Final\MinesweeperVS.c(463,33): warning C4133: '=' : types incompatibles - de 'SDL_Texture *' à 'const char *'
+C:\Users\yxofl\OneDrive\Bureau\MineSweeper Groupe A2 Final\MinesweeperVS.c(472,33): warning C4133: '=' : types incompatibles - de 'SDL_Texture *' à 'const char *'
+C:\Users\yxofl\OneDrive\Bureau\MineSweeper Groupe A2 Final\MinesweeperVS.c(480,33): warning C4133: '=' : types incompatibles - de 'SDL_Texture *' à 'const char *'
+C:\Users\yxofl\OneDrive\Bureau\MineSweeper Groupe A2 Final\MinesweeperVS.c(519,6): warning C4550: l'expression évalue une fonction dans laquelle manque une liste d'arguments
+C:\Users\yxofl\OneDrive\Bureau\MineSweeper Groupe A2 Final\MinesweeperVS.c(576,6): warning C4550: l'expression évalue une fonction dans laquelle manque une liste d'arguments
+C:\Users\yxofl\OneDrive\Bureau\MineSweeper Groupe A2 Final\MinesweeperVS.c(164,7): warning C4047: 'initialisation' : les niveaux d'indirection de 'char' et de 'char [1]' sont différents
+C:\Users\yxofl\OneDrive\Bureau\MineSweeper Groupe A2 Final\MinesweeperVS.c(595,24): warning C4028: paramètre formel 1 différent de la déclaration
+C:\Users\yxofl\OneDrive\Bureau\MineSweeper Groupe A2 Final\MinesweeperVS.c(595,46): warning C4028: paramètre formel 2 différent de la déclaration
+C:\Users\yxofl\OneDrive\Bureau\MineSweeper Groupe A2 Final\MinesweeperVS.c(599,8): warning C4013: 'time' non défini(e) ; extern retournant int pris par défaut
+C:\Users\yxofl\OneDrive\Bureau\MineSweeper Groupe A2 Final\MinesweeperVS.c(609,2): warning C4550: l'expression évalue une fonction dans laquelle manque une liste d'arguments
+C:\Users\yxofl\OneDrive\Bureau\MineSweeper Groupe A2 Final\MinesweeperVS.c(611): warning C4716: 'SDL_main' : doit retourner une valeur
+  MinesweeperVS.vcxproj -> C:\Users\yxofl\OneDrive\Bureau\MineSweeper Groupe A2 Final\x64\Debug\MinesweeperVS.exe
